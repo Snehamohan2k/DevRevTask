@@ -1,0 +1,116 @@
+{
+    "users":[
+        {
+            "Title":"The Funny Animals",
+            "Author":"James Camal",
+            "Subject": "Fiction",
+            "PublishDate":"Febraury 1",
+            "Price":200,
+            "Availability":"Available"
+        },
+        {
+            "Title":"The Immortals of Meluha",
+            "Author":"Amish Tripathi",
+            "Subject": "Fantasy",
+            "PublishDate":"February 5, 2010",
+            "Price":480,
+            "Availability":"Available"
+        },
+        {
+            "Title":"The Lost Symbol",
+            "Author":"Dan Brown",
+            "Subject": "Suspense",
+            "PublishDate":"September 15, 2009",
+            "Price":287,
+            "Availability":"UnAvailable"
+        },
+        {
+            "Title":"The Da Vinci Code",
+            "Author":"Dan Brown",
+            "Subject": "Mystery",
+            "PublishDate":"July 6, 2010",
+            "Price":230,
+            "Availability":"Available"
+        },
+        {
+            "Title":"The India Story",
+            "Author":"Bimal Jalal",
+            "Subject": "Suspense",
+            "PublishDate":"July 9, 2009",
+            "Price":900,
+            "Availability":"Available"
+        },
+        {
+            "Title":"A Place Called Home",
+            "Author":"Preeti Shenoy",
+            "Subject": "Romance",
+            "PublishDate":"January 16, 2019",
+            "Price":670,
+            "Availability":"UnAvailable"
+        },
+        {
+            "Title":"The Oath of the Vayuputras",
+            "Author":"Amish Tripathi",
+            "Subject": "Fantasy",
+            "PublishDate":"February 27, 2013",
+            "Price":150,
+            "Availability":"UnAvailable"
+        },
+        {
+            "Title":"The Immortals of Meluha",
+            "Author":"Gupta",
+            "Subject": "Horror",
+            "PublishDate":"February 5, 2011",
+            "Price":980,
+            "Availability":"Available"
+        },
+        {
+            "Title":"Queen of Fire",
+            "Author":"Devika Rangachari",
+            "Subject": "Motivation",
+            "PublishDate":"October 8, 2015",
+            "Price":200,
+            "Availability":"Available"
+        },
+        {
+            "Title":"Hear Yourself",
+            "Author":"Prem Rawat",
+            "Subject": "Motivation",
+            "PublishDate":"August 23, 2001",
+            "Price":290,
+            "Availability":"Available"
+        },
+        {
+            "Title":"Monsoon",
+            "Author":"Sahitya Akademi",
+            "Subject": "Mystery",
+            "PublishDate":"December 5, 1998",
+            "Price":980,
+            "Availability":"Available"
+        },
+        {
+            "Title":"Kingdom of the Wicked",
+            "Author":"James Patterson",
+            "Subject": "Fiction",
+            "PublishDate":"October 27, 2020",
+            "Price":560,
+            "Availability":"UnAvailable"
+        },
+        {
+            "Title":"Kingdom of the Cursed",
+            "Author":"James Patterson",
+            "Subject": "Fiction",
+            "PublishDate":"October 5, 2021",
+            "Price":500,
+            "Availability":"UnAvailable"
+        },
+        {
+            "Title":"The Paradise",
+            "Author":"James Patterson",
+            "Subject": "Fantasy",
+            "PublishDate":"September 16, 2020",
+            "Price":607,
+            "Availability":"UnAvailable"
+        }
+    ]
+}
